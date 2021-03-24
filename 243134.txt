@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-xd
-=======
-xdd
->>>>>>> 13f179e (Inicjalizacja projektu3)
+xxxxd
